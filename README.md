@@ -39,12 +39,4 @@ Currently, the prototype is designed for demonstration purposes. To explore the 
 - Expanding the gallery feature to support virtual reality (VR) exhibitions.
 - Incorporating AI to recommend NFTs based on user preferences.
 
-## Acknowledgements
 
-Special thanks to all who participated in user testing and provided valuable feedback to improve the prototype.
-
----
-
-For more information or to contribute to the project, please contact [Your Contact Information].
-
-# NFT-APP-PROTOTYPE
